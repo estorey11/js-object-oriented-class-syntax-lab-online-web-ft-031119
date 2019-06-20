@@ -17,7 +17,7 @@ class BoardMember {
     return 'I like to help people.'
   }
   
-  veto() {
+  releasePressStatement() {
     return 'No, I must disagree'
   }
   
