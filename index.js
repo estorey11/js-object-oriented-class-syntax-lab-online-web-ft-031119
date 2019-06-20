@@ -26,4 +26,4 @@ class BoardMember {
   }
 }
 
-class Ceo inherits 
+class Ceo extends BoardMember
