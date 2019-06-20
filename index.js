@@ -18,10 +18,10 @@ class BoardMember {
   }
   
   releasePressStatement() {
-    return 'No, I must disagree'
+    return 'You will see great things from Scuber.'
   }
   
-  veto() {
+  sayHi() {
     return 'No, I must disagree'
   }
 }
